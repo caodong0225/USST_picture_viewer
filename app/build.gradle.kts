@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "com.caodong0225.volley"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.caodong0225.volley"
-        minSdk = 34
+        minSdk = 28
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
